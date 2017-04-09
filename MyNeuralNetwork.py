@@ -111,7 +111,7 @@ class NeuralNetwork:
 
 
 if __name__ == "__main__":
-	np.random.seed(1)
+    np.random.seed(1)
 
     # "number of 1's is odd" examples
     X = [[0, 0, 0], # 0
